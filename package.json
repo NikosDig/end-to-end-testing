@@ -4,7 +4,8 @@
   "description": "e2e testing with cypress",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "npm run test-e2e",
+    "test-e2e": "cypress open"
   },
   "author": "nikos",
   "license": "ISC",
