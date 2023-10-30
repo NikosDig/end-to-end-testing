@@ -3,3 +3,4 @@ export function wait(ms = 1000, resolveWith = "Hello World") {
     setTimeout(() => resolve(resolveWith), ms);
   });
 }
+// example text dont pay attention to this comment
