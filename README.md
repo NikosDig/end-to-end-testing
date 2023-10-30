@@ -233,3 +233,5 @@ Additional resources
 Testing Network Requests
 Debugging with Cypress
 Waiting in Cypress and how to avoid it
+
+[![Automated Unit Testing](https://github.com/NikosDig/end-to-end-testing/actions/workflows/unit-test.yml/badge.svg)](https://github.com/NikosDig/end-to-end-testing/actions/workflows/unit-test.yml)
