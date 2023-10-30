@@ -1,0 +1,11 @@
+{
+  "name": "end-to-end-testing",
+  "version": "0.0.1",
+  "description": "e2e testing with cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "nikos",
+  "license": "ISC"
+}
